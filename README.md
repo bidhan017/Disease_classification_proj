@@ -11,3 +11,8 @@
 7. Update the pipeline
 8. Update the main.py
 9. Update the dvc.yaml #mlops tools
+
+DVC commands:
+dvc init
+dvc repro
+dvc dag
